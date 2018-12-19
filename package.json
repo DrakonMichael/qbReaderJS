@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/DrakonMichael/qbreaderJS/issues"
   },
-  "homepage": "https://github.com/DrakonMichael/qbreaderJS#readme"
+  "homepage": "https://github.com/DrakonMichael/qbreaderJS#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "delay": "^4.1.0",
+    "parse-pdf": "^1.0.0",
+    "string-similarity": "^3.0.0"
+  }
 }
